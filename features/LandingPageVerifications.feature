@@ -1,4 +1,7 @@
 ﻿Feature: Landing page verification
+	In order to have a presentable landing page
+	As a company CEO
+	I want to verify basic landing page functionalities
 
 Background: Open browser 
 	Given open my favorite browser
